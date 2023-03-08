@@ -6,7 +6,7 @@
 * **E-mail**: komissarovea@gamil.com
 * **Telegram**: [@komissarovea](https://t.me/komissarovea)
 * **Discord**: Evgeny (@komissarovea)
-
+---
 ## About me
 
 * Hands-on experience with building commercial software systems
@@ -14,7 +14,7 @@
 * Proficient at debugging and troubleshooting code and applications
 * In-depth understanding of database technologies including SQL Server, Oracle, and other RDBMS systems
 *  Ability to work independently and as part of a team to meet deadlines and complete tasks quickly
-
+---
 ## Skills
 
 * C#
@@ -22,4 +22,10 @@
 * WPF/XAML
 * MS SQL Server, MySQL, Oracle
 * HTML, CSS, JavaScript
-
+---
+## Code Example
+```
+function multiply(a, b){
+  return a * b;
+}
+```
