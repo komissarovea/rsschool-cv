@@ -1,2 +1,2 @@
 # rsschool-cv
-RS School CV Task
+https://komissarovea.github.io/rsschool-cv/cv
