@@ -2,4 +2,6 @@
 
 ## Contacts
 
-Discord on rs-school server: Evgeny (@komissarovea)
+* **Location**: Minsk, Belarus
+* **Discord**: Evgeny (@komissarovea)
+
