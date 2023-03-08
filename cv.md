@@ -9,9 +9,17 @@
 
 ## About me
 
-* 10+ years .NET development (experienced with ASP.NET, ADO.NET, WCF, WPF, Windows Forms, .NET Core services on Linux, etc)
-* Hands-on experience building commercial software systems.
-* Understanding and knowledge of the object-oriented approach and design patterns.
-* Database experience (MS SQL, MySQL, Oracle, and similar)
-* AWS cloud services experience (EC2, S3, Lambda, CloudFront, etc)
-*  Experienced in developing desktop applications for Windows and mobile applications with UWP (also have flutter and java pet projects).
+* Hands-on experience with building commercial software systems
+* Strong knowledge of the .NET platform, C# language and object-oriented programming 
+* Proficient at debugging and troubleshooting code and applications
+* In-depth understanding of database technologies including SQL Server, Oracle, and other RDBMS systems
+*  Ability to work independently and as part of a team to meet deadlines and complete tasks quickly
+
+## Skills
+
+* C#
+* ASP.NET Core
+* WPF/XAML
+* MS SQL Server, MySQL, Oracle
+* HTML, CSS, JavaScript
+
